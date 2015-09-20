@@ -1,5 +1,5 @@
 {
-  "name": "proxify.io",
+  "name": "requestify.io",
   "version": "0.1.0",
   "description": "",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexwebb2/proxify.io.git"
+    "url": "https://github.com/alexwebb2/requestify.io.git"
   },
   "author": "Alex Webb <alexwebb2@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexwebb2/proxify.io/issues"
+    "url": "https://github.com/alexwebb2/requestify.io/issues"
   },
-  "homepage": "https://github.com/alexwebb2/proxify.io",
+  "homepage": "https://github.com/alexwebb2/requestify.io",
   "dependencies": {
     "express": "^4.13.3"
   }
